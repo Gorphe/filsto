@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @filsto
-- I am MD - ENT head and neck surgeon, spacialized in Oncology
-- 👀 I’m interested in Maths, Statistics, Informatics, (and Music)
-- 🌱 I’m currently learning Machine learning for Academic purposes
+- I am MD - ENT head and neck surgeon, esp in Oncology / Robotic Surgery
+- 👀 I’m interested in Maths, Statistics, Informatics, Robotics
+- 🌱 I’m learning Machine learning for Academic research
 - 💞️ I’m looking to collaborate on Computer Vision
 - 📫 How to reach me - mail
 
