@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @filsto
+- 👋 Hi, I’m @Peedjee 
 - I am MD - ENT head and neck surgeon, esp in Oncology / Robotic Surgery
 - 👀 I’m interested in Maths, Statistics, Informatics, Robotics
 - 🌱 I’m learning Machine learning for Academic research
